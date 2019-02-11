@@ -1,2 +1,2 @@
 # Hello-world-
-Hello world assignment
+Hello, world, git, and everything.
